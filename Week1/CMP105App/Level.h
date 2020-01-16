@@ -21,4 +21,11 @@ private:
 
 	sf::RectangleShape rect;
 	sf::CircleShape circle;
+	sf::RectangleShape bRed;
+	sf::RectangleShape mGreen;
+	sf::RectangleShape sBlue;
+	sf::RectangleShape rectUp;
+
+	sf::Font font;
+	sf::Text words;
 };
